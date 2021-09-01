@@ -1,4 +1,1 @@
-merhaba
-from feature-1
-from feature-2
-I am in master 
+Herseyi sildimm
